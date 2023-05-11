@@ -1,5 +1,5 @@
-# 3DThreejs-project
- Trying out Three.js
+# React Time Chat App
+ with chatengine.io that handles UI,users and authentication
 
 
 ## To install all the dependencies use the following ⚙
